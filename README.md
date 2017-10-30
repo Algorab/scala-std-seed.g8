@@ -1,0 +1,1 @@
+# Custom scala seed template
